@@ -1,0 +1,5 @@
+{
+  "name": "Time-Travel Photo Booth",
+  "description": "Upload your photo and travel through time! Select a historical era, and Gemini AI will place you into a scene from the past or future.",
+  "requestFramePermissions": []
+}
